@@ -1,0 +1,12 @@
+/var/www/productapi/ProductApi
+/var/www/productapi/appsettings.Development.json
+/var/www/productapi/appsettings.json
+/var/www/productapi/ProductApi.dll
+/var/www/productapi/ProductApi.deps.json
+/var/www/productapi/ProductApi.runtimeconfig.json
+/var/www/productapi/ProductApi.pdb
+/var/www/productapi/Microsoft.AspNetCore.OpenApi.dll
+/var/www/productapi/Microsoft.OpenApi.dll
+/var/www/productapi/Swashbuckle.AspNetCore.Swagger.dll
+/var/www/productapi/Swashbuckle.AspNetCore.SwaggerGen.dll
+/var/www/productapi/Swashbuckle.AspNetCore.SwaggerUI.dll
