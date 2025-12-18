@@ -1,4 +1,4 @@
-
+Added Protection agains race condition
 ---
 
 # 🐘 PostgreSQL Backup Automation Script (`pg_backup.sh`)
