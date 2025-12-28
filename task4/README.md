@@ -48,7 +48,7 @@
 | \* tb - amount of memory of high memory instances (3 TiB to 32 TiB)                                                                                                                   |     |
 | z - high CPU frequency                                                                                                                                                                |     |
 
-![Types of Instances](Assets/instance types.png)
+![Types of Instances](Assets/instance_types.png)
 
 ## Instance Selection
 
@@ -59,7 +59,7 @@ Need to know the application/workload,
 - What are the business requirements?
 - What are the bottlenecks?
 
-![Full Overview](Overview Of how to select an instance.png)
+![Full Overview](Overview.png)
 
 ### What if I'm unsure about the key constraints?
 1. Start with the best guess instance
